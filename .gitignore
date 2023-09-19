@@ -1,5 +1,6 @@
 /Train
 /Test
-/Features
+/MelSpec
+/google
 *.csv
 *.jupyterlab-workspace
