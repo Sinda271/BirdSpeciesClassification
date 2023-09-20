@@ -23,8 +23,7 @@ We have 40 bird species and a total number of 1856 records.
 &emsp;    b- Activate env: conda activate bird \
 &emsp;    c- Install librosa library for signal processing: conda install -c conda-forge librosa \
 &emsp;    d- Register env as a jupyter kernel: pip install ipkernel ; python -m ipykernel install --user --name=bird \
-&emsp;    e- In all the jupyter notebooks choose the new kernel to before running them 
-
+&emsp;    e- In all the jupyter notebooks choose the new kernel to before running them \
      <img src="images/img1.png" width="800" /> \
      <img src="images/img2.png" width="800" />
     
