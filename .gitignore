@@ -2,6 +2,6 @@
 /Test
 /MelSpec
 /checkpoints
-/.ipynb_checkpoints
+.ipynb_checkpoints
 *.csv
 *.jupyterlab-workspace
