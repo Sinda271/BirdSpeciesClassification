@@ -1,6 +1,7 @@
 /Train
 /Test
 /MelSpec
-/google
+/checkpoints
+/.ipynb_checkpoints
 *.csv
 *.jupyterlab-workspace
